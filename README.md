@@ -1,2 +1,3 @@
 # myFirstGitRepo
-my seconde repo creted
+my seconde repo created
+Make and commit changes
