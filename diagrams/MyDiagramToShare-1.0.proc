@@ -15,7 +15,7 @@
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_tYwyi247EeiBafgegvnPvA" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_tYwyjG47EeiBafgegvnPvA" name="" content="" returnTypeFixed="true"/>
         </elements>
-        <elements xmi:type="process:ServiceTask" xmi:id="_F6Z8QG48EeiBafgegvnPvA" name="Step1" outgoing="_JffXIG49EeiBafgegvnPvA" incoming="_tYwynW47EeiBafgegvnPvA _PcxN4G49EeiBafgegvnPvA">
+        <elements xmi:type="process:ServiceTask" xmi:id="_F6Z8QG48EeiBafgegvnPvA" name="Etape1" outgoing="_JffXIG49EeiBafgegvnPvA" incoming="_tYwynW47EeiBafgegvnPvA _PcxN4G49EeiBafgegvnPvA">
           <viewPageFlowRedirectionURL xmi:type="expression:Expression" xmi:id="_tYwyeW47EeiBafgegvnPvA" name="" content="" returnTypeFixed="true"/>
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_tYwyem47EeiBafgegvnPvA" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_tYwye247EeiBafgegvnPvA" name="" content="" returnTypeFixed="true"/>
